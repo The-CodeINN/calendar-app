@@ -30,3 +30,11 @@ header.main nav button {
 header button {
   justify-self: center;
 }
+
+/* For mobile devices */
+@media (max-width: 600px) {
+  header.main {
+    display: flex;
+    align-items: center;
+  }
+}
