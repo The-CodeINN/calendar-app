@@ -1,6 +1,6 @@
 # Title: Calendar App
 
-This is a simple calendar app that allows you to add events to a calendar and view them in a list. It is a simple app built with [Vanilla JavaScript]
+This is a simple calendar app that allows you to add events to a calendar and view them in a list. It is a simple app built with Vanilla JavaScript and CSS.
 
 # Installation
 
@@ -12,4 +12,4 @@ To use the app, click on the `Add Event` button to add an event to the calendar.
 
 # Live Demo
 
-You can view a live demo of the app [here] (http://calendar-app-alpha.vercel.app/)
+You can view a live demo of the app [here](<http://calendar-app-alpha.vercel.app/>)
